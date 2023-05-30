@@ -4,7 +4,7 @@ This project aims to to predict the quality of wine using linear regression.
 1. The dataset used for this project can be found on Kaggle under the name "Red Wine Quality". 
 2. The main aim of the red wine quality dataset is to predict which of the physiochemical features make good wine. With 11 variables and 1 output variable (quality) given.
 # Prerequisites
-1.Python 3.6 or above
+1. Python 3.6 or above
 2. NumPy
 3. Pandas
 4. Matplotlib
